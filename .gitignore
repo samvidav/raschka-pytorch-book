@@ -39,3 +39,9 @@ doc/_build
 
 # Other
 .python-version
+
+# Environment files
+pytorch-book/
+
+# PDFs of various things related to the book
+supplementary/
