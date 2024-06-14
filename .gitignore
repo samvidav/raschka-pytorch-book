@@ -5,6 +5,7 @@ ch12/iris_classifier_state.pt
 ch12/iris_classifier.pt
 ch08/aclImdb/
 ch08/aclImdb_v1.tar.gz
+ch08/movies.csv
 
 # Test Suites
 .coverage*
