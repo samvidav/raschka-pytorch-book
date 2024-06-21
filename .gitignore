@@ -1,8 +1,10 @@
 # Datasets and temporary PyTorch files
 ch12/MNIST
 ch12/celeba
+ch12/img_align_celeba
 ch12/iris_classifier_state.pt
 ch12/iris_classifier.pt
+ch12/img_align_celeba.zip
 ch08/aclImdb/
 ch08/aclImdb_v1.tar.gz
 ch08/movies.csv
