@@ -49,5 +49,8 @@ doc/_build
 # Environment files
 pytorch-book/
 
+# Lightning logs
+ch13/lightning_logs/
+
 # PDFs of various things related to the book
 supplementary/
